@@ -1,0 +1,81 @@
+body{
+    background-color: #c8c3d9;
+
+} 
+#navegador ul {
+    list-style: none;
+    text-align: center;
+    background-color: #5f34eb;
+    height: 50px;
+    font-family: 'Delicious Handrawn', cursive;
+
+}
+#navegador li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+    font-family: 'Delicious Handrawn', cursive;
+
+}
+#navegador li a{
+    padding: 2px 7px 2px 7px;
+    color: #ffff;
+    background-color: #5f34eb;
+    text-decoration: none;
+    font-family: 'Delicious Handrawn', cursive;
+
+}
+#navegador li a:hover{
+    background-color: #0faafd;
+    color: #ffff;
+    height: 10px;
+    font-family: 'Delicious Handrawn', cursive;
+
+}
+
+
+
+#c1{
+    color: #004F00;
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    width: 400px;
+    height: 300px;
+}
+#c2{
+    color: #004F00;
+    position: absolute;
+    left: 50px;
+    top: 130px;
+    width: 400px;
+    height: 300px;
+
+}
+#c3{
+    color: #004F00;
+    position: absolute;
+    left: 50px;
+    top: 180px;
+    width: 430px;
+    height: 300px;
+
+}
+#logo{
+margin-left: 30px;
+margin-top: -70px;
+}
+#escudo{
+    margin-left: 780px;
+    margin-top:  110px;
+
+}
+#Escudo{
+    position: absolute;
+    left: 830px;
+    top:  180px;
+    right: 12px;
+    height: 100px;   
+    font-family:'Delicious Handrawn', cursive; ;
+}
+    
